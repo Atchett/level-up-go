@@ -1,0 +1,11 @@
+{
+    "SiteName":"My Blog",
+    "SiteURL": "https://myBlog.com",
+    "Database": {
+        "Name": "blog_db",
+        "Host": "127.0.0.1",
+        "Port":3306,
+        "Username":"user1",
+        "Password":"password1"
+    }
+}
